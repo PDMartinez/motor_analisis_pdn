@@ -1,0 +1,4 @@
+# Dependencias necesarias para ejecutar búsqueda, modelos e interpretación.
+numpy
+scikit-learn
+joblib

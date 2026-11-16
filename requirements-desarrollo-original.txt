@@ -1,0 +1,6 @@
+# Dependencias del entorno de desarrollo original (no necesarias para producción).
+pandas
+numpy
+scikit-learn
+matplotlib
+jupyter
